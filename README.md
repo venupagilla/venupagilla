@@ -88,7 +88,7 @@
   <a href="https://github.com/venupagilla">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://venupagilla-portfolio.vercel.app" target="_blank">
+  <a href="https://venupagilla.github.io/venupagilla-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
