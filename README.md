@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building **[MarketEasy](https://market-easy-frontend.vercel.app)** — an AI-powered marketing automation platform
+- 🔭 Currently building **[Brandeuver](https://market-easy-frontend.vercel.app)** — an AI-powered marketing automation platform
 - 🌱 Deepening my skills in **AI/ML, FastAPI, and cloud deployments**
 - 🛠️ I enjoy building full-stack apps that solve real-world problems
 - 💬 Ask me about **React, TypeScript, Python, FastAPI, and Machine Learning**
@@ -48,6 +48,9 @@
 
 ### AI/ML & Cloud
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -58,11 +61,13 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎯 [**MarketEasy**](https://github.com/venupagilla/Perpetual-Enigma) | AI-powered marketing automation platform with campaign management, lead generation, and AI pitch generation for Instagram & LinkedIn | Next.js · TypeScript · Python · FastAPI |
+| 🎯 [**Brandeuver**](https://github.com/venupagilla/Perpetual-Enigma) | AI-powered marketing automation platform with campaign management, lead generation, and AI pitch generation for Instagram & LinkedIn | Next.js · TypeScript · Python · FastAPI |
+| 🧠 [**Ethos**](https://github.com/venupagilla/Ethos-Multi-agent-project-planning) | Autonomous multi-agent system for project planning & resource allocation — auto-generates tasks, staffs teams via fitness scoring, assesses risk, and produces SRS/DRD docs | TypeScript · Next.js · Python · FastAPI · LangGraph · Groq |
 | 🌉 [**SkillBridge**](https://github.com/venupagilla/SkillBridge) | Full-stack job-readiness platform using AI to identify skill gaps, provide real-world simulations, and generate personalized learning roadmaps | React · TypeScript · FastAPI · PostgreSQL · Ollama |
 | 🎙️ [**UdyoGive**](https://github.com/venupagilla/UdyoGive) | Voice-driven job portal that uses Google Speech-to-Text and Gemini AI to process audio-based job search intents | React · TypeScript · FastAPI · Google STT |
 | 🗳️ [**Voting System**](https://github.com/venupagilla/Voting-System-Bolt) | A web-based voting system application | JavaScript |
-| 🤖 [**Model Trainer**](https://github.com/venupagilla/model-trainer) | Machine learning model training utilities | Python |
+| 🤖 [**Model Automator**](https://github.com/venupagilla/model-trainer) | Streamlit tool that auto-recommends and trains ML models (Linear Regression, Logistic Regression, SVM, KNN) using Gemini AI, with dataset upload and interactive visualizations | Python · Streamlit · Gemini AI · scikit-learn |
+| 🏥 [**Insurance Premium Predictor**](https://github.com/venupagilla/Medical-Insurance-Premium-Predictor) | Web app predicting medical insurance premiums with a Linear Regression model, complete with performance metrics and data visualizations | Python · Flask · scikit-learn |
 | 📡 [**IoT Scheduler**](https://github.com/venupagilla/Real-time-iot-scheduler) | Real-time IoT device scheduler | Python |
 | 🖼️ [**Image Recognition**](https://github.com/venupagilla/Image-recognition-using-machine-learning) | Image recognition using machine learning | Python |
 | 🏥 [**Doctor Appointment System**](https://github.com/venupagilla/Doctor-appointment-management-system) | Doctor appointment management system | Java |
